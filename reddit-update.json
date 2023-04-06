@@ -1,6 +1,6 @@
 {
-  "version": "v2023.12.0",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/AlphaNecron/revanced-magisk/releases/download/3/reddit-revanced-magisk-v2023.12.0-all.zip",
+  "version": "v2023.10.0",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/AlphaNecron/revanced-magisk/releases/download/4/reddit-revanced-magisk-v2023.10.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/AlphaNecron/revanced-magisk/update/build.md"
 }
