@@ -33,7 +33,8 @@ ETC
   
 **App Versions:**  
 YouTube: 18.15.40  
-Reddit: 2023.15.0  
+Music (arm64-v8a): 5.53.50  
+Reddit: 2023.16.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
