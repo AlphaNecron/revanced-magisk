@@ -32,6 +32,7 @@ ETC
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
+YouTube: 18.15.40  
 Music (arm64-v8a): 5.53.50  
 Reddit: 2023.16.0  
 
